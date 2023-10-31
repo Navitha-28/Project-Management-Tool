@@ -1,0 +1,1 @@
+The project involves building a social media platform where users can connect, communicate, and assign tasks to each other. It includes user registration, profiles, messaging, task management, notifications, security measures, mobile apps, testing, deployment, ongoing support, marketing, and revenue generation. 
